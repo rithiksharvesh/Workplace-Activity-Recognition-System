@@ -41,7 +41,7 @@ Automatically recognize and classify workplace activities such as *Working*, *Id
   - mAP50-95: 0.811
 - Best performance especially for “Empty Chair” class (Precision: 0.96, Recall: 0.95)
 
- 6. **Model Deployment**
+ ###6. **Model Deployment**
   ** Deployment Platform:** [Streamlit](https://streamlit.io)
   ** Features:**
   - Upload image/video
