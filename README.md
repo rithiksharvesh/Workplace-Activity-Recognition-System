@@ -41,24 +41,28 @@ Automatically recognize and classify workplace activities such as *Working*, *Id
   - mAP50-95: 0.811
 - Best performance especially for “Empty Chair” class (Precision: 0.96, Recall: 0.95)
 
- ###6. **Model Deployment**
-  ** Deployment Platform:** [Streamlit](https://streamlit.io)
-  ** Features:**
+### 6. **Model Deployment**
+- **Deployment Platform:** [Streamlit](https://streamlit.io)
+- **Features:**
   - Upload image/video
   - Real-time activity recognition
   - Confidence score visualization
 
-**7. Challenges Faced**
+### 7. **Challenges Faced**
 - Data diversity and annotation accuracy
 - Real-time inference vs. accuracy trade-off
 - Privacy and ethical data handling
 - Hardware limitations (local deployment)
 - Generalization across different environments
 
-**8. Future Scope**
+### 8. **Future Scope**
 - Add more activity classes (e.g., Meetings, Breaks)
 - Real-time analytics dashboard
 - Integration with workplace tools
 - Scalable to larger/multi-site workplaces
 - Privacy-preserving AI techniques
+
+---
+
+
 
